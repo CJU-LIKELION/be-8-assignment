@@ -1,6 +1,6 @@
-# 🦁 7주차: REST API 설계 - 멤버 관리 CRUD (REST 아키텍처 원칙과 DTO)
+# 🦁 8주차: REST API 설계 - 멤버 관리 CRUD (REST 아키텍처 원칙과 DTO)
 
-6주차에서 다룬 스프링 컨테이너 전환에 이어, 본격적으로 웹 API 설계 표준인 **REST API 원칙**에 맞춰 멤버 관리 시스템의 CRUD(생성, 조회, 수정, 삭제) 엔진을 설계하는 과제입니다.
+본격적으로 웹 API 설계 표준인 **REST API 원칙**에 맞춰 멤버 관리 시스템의 CRUD(생성, 조회, 수정, 삭제) 엔진을 설계하는 과제입니다.
 
 자세한 내용은 PBL 사이트를 참고 하세요. [7주차 - REST API 설계 (CRUD)](https://likelion-pbl-five.vercel.app/springboot/2f044860a4f481fb9dd3ea247d83d657)
 
